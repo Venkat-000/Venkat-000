@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venkat
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Developing AI tools
 - 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on developing AI tools
 - 📫 Reach me put on Instagram @venkat0__0
